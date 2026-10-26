@@ -1,0 +1,4 @@
+relative_path,expected_size,actual_size,status,attempts,message
+physiological_data/S0001/sub-S0001119424350_ses-1.edf,217019808,217019808,verified,1,
+physiological_data/I0006/sub-I0006179012477_ses-1.edf,185152900,185152900,verified,1,
+physiological_data/I0006/sub-I0006179003898_ses-1.edf,213873900,213873900,verified,1,

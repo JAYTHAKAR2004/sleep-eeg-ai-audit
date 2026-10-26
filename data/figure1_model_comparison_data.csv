@@ -1,0 +1,4 @@
+Model,ROC_AUC,Average_Precision
+Demographics-only,0.7714,0.4879
+EEG-only,0.5048,0.1124
+Combined,0.6857,0.2135

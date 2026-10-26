@@ -1,0 +1,2 @@
+BidsFolder,total_epochs,flagged_epochs,median_peak_uV,max_peak_uV,median_std_uV,flagged_epoch_fraction,Cognitive_Impairment
+sub-S0001111607694,818,69,63.88651102464283,5590.839124132143,13.431148921039973,0.0843520782396088,False

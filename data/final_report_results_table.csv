@@ -1,0 +1,6 @@
+Analysis,Sample_size,Finding,Interpretation
+Demographics cohort,1103,84 positive labels and 1019 negative labels,Class-imbalanced cohort; separate from EEG pilot
+Demographics baseline,1103,Random Forest ROC-AUC = 0.7346,Exploratory baseline; not clinical validation
+Time_to_Event missingness audit,1103,Missingness perfectly aligned with target label,Potential label leakage; exclude from ordinary prediction
+EEG pilot,38,35 negative and 3 positive patients; 36054 epochs,"Small, single-site feasibility analysis"
+EEG quality screening,38,18213 of 36054 epochs flagged (50.5%),Preliminary >100 µV threshold; not confirmed artefacts

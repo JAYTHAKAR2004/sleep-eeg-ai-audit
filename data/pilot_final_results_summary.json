@@ -1,0 +1,19 @@
+{
+  "eligible_recordings": 38,
+  "negative_patients": 35,
+  "positive_patients": 3,
+  "total_epochs": 36054,
+  "total_flagged_epochs": 18213,
+  "overall_flagged_epoch_fraction": 0.5051589282742552,
+  "median_flag_fraction_negative": 0.4096662830840046,
+  "median_flag_fraction_positive": 0.48760330578512395,
+  "sites_in_eligible_pilot": [
+    "S0001"
+  ],
+  "limitations": [
+    "Only three impairment-positive patients in the eligible EEG pilot",
+    "All eligible recordings are from one site",
+    "100 uV peak threshold is a preliminary review flag, not a validated artifact rule",
+    "Class-wise feature differences are descriptive and not evidence of diagnostic performance"
+  ]
+}

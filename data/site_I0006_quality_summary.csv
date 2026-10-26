@@ -1,0 +1,2 @@
+total_epochs,qc_flagged_epochs,flagged_epoch_percentage,affected_channels_per_flagged_epoch,max_saturation_percentage,qc_rule
+872,3,0.3440366972477064,7,15.316666666666666,At least 2 channels >1% saturated samples and at least 2 channels >5% saturated samples

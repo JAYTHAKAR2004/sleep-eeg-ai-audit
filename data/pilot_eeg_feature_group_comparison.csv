@@ -1,0 +1,3 @@
+Feature_group,Feature_count,ROC_AUC,Average_Precision
+Band-power features only,90,0.21904761904761902,0.06580246913580247
+Amplitude and zero-fraction features,54,0.5904761904761905,0.1693121693121693
